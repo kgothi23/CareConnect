@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Care Connect Self-service Kiosk#
 
 Care Connect is a self-service system is an application designed to streamline the process of scheduling medical appointments and putting in place structures that can help alliviate constraints on Medical staff. 
@@ -41,12 +41,11 @@ $ cd self-service-kiosk
 2. **Run the Application**
 
 ```bash
->>>>>>> 960a757acaa59256162fe6cbd72cf7e4f92cd05d
+
 $ cd self-service-kiosk
 $ node app.js
 ```
 
-<<<<<<< HEAD
 ## Requirements
 - Ensure node.js is installed on your system, otherwise download from [Node.js](https://nodejs.org/).
 
@@ -69,4 +68,4 @@ For any questions or feedback, please contact [website name](email)
 
 ## Contact:
 - For any questions or feedback, please contact [website name](#).
->>>>>>> 960a757acaa59256162fe6cbd72cf7e4f92cd05d
+
