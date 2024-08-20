@@ -40,7 +40,7 @@ import {
     },
   });
   
-  function App() {
+  function features() {
     const { state } = useContext(Store);
   
     return (
@@ -73,4 +73,4 @@ import {
     );
   }
   
-  export default App;
+  export default features;
