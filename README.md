@@ -12,14 +12,14 @@ The system allows new and existing users to select the type of treatment they re
 
 ## How to run
 ### 1. Clone Repo
-```
+
 $ git clone https://github.com/yourusername/hospital-self-service-system.git
 $ cd self-service-kiosk
-```
+
 ### 2. Run the Application
-```
+
 =======
-# CareConnect
+## CareConnect
 
 Care Connect is a self-service system is an application designed to streamline the process of scheduling medical appointments and putting in place structures that can help alliviate constraints on Medical staff.
 
